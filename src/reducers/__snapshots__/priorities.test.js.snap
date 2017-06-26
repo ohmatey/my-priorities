@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PrioritiesList component matches init snapshot 1`] = `Object {}`;
+
+exports[`PrioritiesList component matches snapshot with list of data 1`] = `
+Array [
+  Object {
+    "hours": 9,
+    "id": 0,
+    "name": "Work",
+  },
+  Object {
+    "hours": 1,
+    "id": 1,
+    "name": "Yoga",
+  },
+  Object {
+    "hours": 1,
+    "id": 2,
+    "name": "Gym",
+  },
+  Object {
+    "hours": 1,
+    "id": 3,
+    "name": "Family Time",
+  },
+]
+`;

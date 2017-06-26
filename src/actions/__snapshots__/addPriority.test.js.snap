@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`addPriorityById function matches snapshot with id 1`] = `
+Object {
+  "id": 1,
+  "type": "ADD_PRIORITY",
+}
+`;
+
+exports[`addPriorityById function matches snapshot with no id 1`] = `
+Object {
+  "id": undefined,
+  "type": "ADD_PRIORITY",
+}
+`;

@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getTotalPriorityHours function matches snapshot with array 1`] = `12`;
+
+exports[`getTotalPriorityHours function matches snapshot with empty array 1`] = `0`;

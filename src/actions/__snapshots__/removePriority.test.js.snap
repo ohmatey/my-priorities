@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`removePriorityById function matches snapshot with id 1`] = `
+Object {
+  "id": 1,
+  "type": "REMOVE_PRIORITY",
+}
+`;
+
+exports[`removePriorityById function matches snapshot with no id 1`] = `
+Object {
+  "id": undefined,
+  "type": "REMOVE_PRIORITY",
+}
+`;

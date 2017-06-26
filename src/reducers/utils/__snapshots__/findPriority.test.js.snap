@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`findPriority returns priority from id 1`] = `
+Object {
+  "hours": 1,
+  "id": 1,
+  "name": "Yoga",
+}
+`;
+
+exports[`findPriority returns undefined with no id found 1`] = `undefined`;

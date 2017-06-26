@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PrioritiesList component matches snapshot 1`] = `undefined`;
+
+exports[`PrioritiesList component matches snapshot with an array 1`] = `undefined`;

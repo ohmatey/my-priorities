@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PrioritiesList component matches init snapshot 1`] = `Array []`;
